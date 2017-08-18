@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Dagger2Sample</string>
+
+  <string name="dialog_title">Dialog Title</string>
+  <string name="dialog_message">Dialog message</string>
+  <string name="dialog_button_caption">OK</string>
+  <string name="show_dialog_button_caption">Show Dialog</string>
+</resources>
